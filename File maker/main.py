@@ -7,7 +7,7 @@ import time
 # Code
 print("File Maker")
 time.sleep(2)
-print("By: Den")
+print("By: E-Coders Team")
 time.sleep(3)
 print("Version: 1.0.0.0")
 time.sleep(2)
