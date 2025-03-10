@@ -3,7 +3,6 @@
 # Imports
 import os
 import time
-import shutil
 
 # Code
 print("File Maker")
