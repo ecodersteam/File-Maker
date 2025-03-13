@@ -26,7 +26,7 @@ No installation is required! Just ensure you have Python installed on your syste
 - Python 3.x
 
 ## Author
-**Den**
+**E-Coders Team**
 
 ## Version
 1.0.0.0
